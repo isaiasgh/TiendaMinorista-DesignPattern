@@ -2,7 +2,7 @@ package Facade;
 
 /**
  *
- * @author isaias
+ * @author Grupo 9
  */
 
 public interface Subsystem {
